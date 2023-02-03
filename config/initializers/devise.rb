@@ -213,6 +213,7 @@ Devise.setup do |config|
   # Time interval to unlock the account if :time is enabled as unlock_strategy.
   # config.unlock_in = 1.hour
 
+  config.navigational_formats = ['*/*', :html, :turbo_stream]
   # Warn on the last attempt before the account is locked.
   # config.last_attempt_warning = true
 
