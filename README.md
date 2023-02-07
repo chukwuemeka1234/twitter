@@ -1,24 +1,33 @@
-# README
+# Twitter clone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built With
 
-Things you may want to cover:
+- Ruby on Rails
+- Full-stack Backend
 
-* Ruby version
 
-* System dependencies
+## Getting Started
 
-* Configuration
+- Getting a local copy is simple. Follow the steps below
 
-* Database creation
+### Install
 
-* Database initialization
+- Node
+- npm
+- git
 
-* How to run the test suite
+### Local Copy
 
-* Services (job queues, cache servers, search engines, etc.)
+- Clone the project
 
-* Deployment instructions
+```
+https://github.com/chukwuemeka1234/twitter.git
+```
 
-* ...
+## Authors
+
+👤 **Victor Chukwuemeka**
+
+- GitHub: [@githubhandle](https://github.com/chukwuemeka1234/)
+- Twitter: [@twitterhandle](https://twitter.com/@avc_victor)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/vic-chukwuemeka/)
